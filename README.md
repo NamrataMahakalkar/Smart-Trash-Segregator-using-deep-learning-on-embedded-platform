@@ -1,5 +1,5 @@
 # Smart-Trash-Segregator-using-deep-learning-on-embedded-platform
-Here is a compete project of trash segregation for the indian trash which uses deep learning. The system code is novel starts from the datacollection on Raspberry-Pi till the system actuations. The code of the object detection model is not completely new, rather here I have joined the bits and pisces of existingly available code with moderate level of modifications for my problem statement and dataset. There are many models in the system. 
+Here is a compete project of trash segregation for the indian trash which uses deep learning. The dataset for the same project is available at https://drive.google.com/drive/folders/15Y-9jHfXLhF7rTLaiC8RHoSqOjoSDSZ2?usp=sharing. The system code is novel starts from the datacollection on Raspberry-Pi till the system actuations. The code of the object detection model is not completely new, rather here I have joined the bits and pisces of existingly available code with moderate level of modifications for my problem statement and dataset. There are many models in the system. 
 
 1) Modules required for the actual system are dscribed bellow in the format such as [Module name,Functionality,Code type,No. of lines of code]
 dataCollection.py	For collecting data from the pi-camera and naming it appropriately in sequence irrespective of Pi restarts. -Python
